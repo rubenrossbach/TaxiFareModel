@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ruben/code/rubenrossbach/TaxiFareModel/mlruns/1/6f980a2db14e4e34b17dd9096d857e73/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6f980a2db14e4e34b17dd9096d857e73
+run_uuid: 6f980a2db14e4e34b17dd9096d857e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645542748699
+status: 1
+tags: []
+user_id: unknown
